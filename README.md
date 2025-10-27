@@ -1,2 +1,2 @@
 # NewerDungeonExample
-Times Project Reposiroty Corrupted: 02
+Times Project Repository Corrupted: 02
